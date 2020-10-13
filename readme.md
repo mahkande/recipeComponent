@@ -1,1 +1,1 @@
-![capture](https://github.com/mahkande/card/blob/master/img/Capture.PNG)
+![capture](https://github.com/mahkande/recipeComponent/blob/master/img/Capture.PNG)
